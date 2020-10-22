@@ -11,3 +11,5 @@
 엄재웅
 
 이기훈
+
+[위키 링크](https://github.com/EomJaeWoong/YetdaHopae/wiki/Home)
